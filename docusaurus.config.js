@@ -96,8 +96,8 @@ const config = {
           nodes: [
             {
               host: '20.204.43.118',
-              port: 8108,
-              protocol: 'http',
+              port: 443,
+              protocol: 'https',
             }
             // {
             //   host: 'xxx-2.a1.typesense.net',
