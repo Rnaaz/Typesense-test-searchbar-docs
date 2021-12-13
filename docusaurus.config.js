@@ -95,7 +95,7 @@ const config = {
         typesenseServerConfig: {
           nodes: [
             {
-              host: '20.204.43.118',
+              host: 'typsense-test.iudx.io',
               port: 443,
               protocol: 'https',
             }
